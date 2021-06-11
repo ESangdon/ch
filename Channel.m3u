@@ -3,7 +3,7 @@ http://gg.gg/Ha_Noi_IPTV_2-SBS_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs2.png" tvg-chno="7",KBS2
 http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs.png" tvg-chno="9",KBS1
-http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1611499767&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMTQ5OTc2N319fV19&Signature=bg0kaiy9VkWuLcuJOFPxCpNo-72PUGWcRsBPjP1ayFNJMdE0JPTYGlr7HsKct9NB1~WgAtdnNoG7K-nbD0iBbGjPKovWKx01Q1DEHRaDXyKoowKbL0emb9sbf63xd~k9bwZ1wGPkJRYeSulHYaZLtNiWhqHEDt6lVrhqsUcc4QL2bmNcPrlrXMTt011CPKAGr0XBOS6ous76wDkCkzTQzbWTzrVS2UBrWWGBldmNNuB8dUHfFhltwSFSOtgc1lmcJl5nDeDWhCRlhSWOCHQ-ma0go8Bauiusw45yLZS997bP1P0emAhQkX5O70X~4fHRZ~OkIMGcMntcvGr2DOu5UA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/mbc.png" tvg-chno="11",MBC
 http://gg.gg/Ha_Noi_IPTV_3-MBC_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc.png" tvg-chno="15",JTBC
