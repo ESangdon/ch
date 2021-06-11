@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/sbs.png" tvg-chno="5",SBS
-http://1.245.74.5:1935//live//tv//.m3u8
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs2.png" tvg-chno="7",KBS2
 udp://239.192.39.1:49220/KBS2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs.png" tvg-chno="9",KBS1
