@@ -1,3 +1,3 @@
 # Channel
 
-https://raw.githubusercontent.com/ESangdon/Channel/main/Channel.m3u
+https://raw.githubusercontent.com/ESangdon/ch/main/ch.m3u
