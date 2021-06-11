@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/sbs.png" tvg-chno="5",SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs2.png" tvg-chno="7",KBS2
-udp://239.192.39.1:49220/KBS2
+http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs.png" tvg-chno="9",KBS1
 http://1tv.gscdn.kbs.co.kr/1tv-m/1tv-m_hd.m3u8?Expires=1611499767&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2LW0vMXR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxMTQ5OTc2N319fV19&Signature=bg0kaiy9VkWuLcuJOFPxCpNo-72PUGWcRsBPjP1ayFNJMdE0JPTYGlr7HsKct9NB1~WgAtdnNoG7K-nbD0iBbGjPKovWKx01Q1DEHRaDXyKoowKbL0emb9sbf63xd~k9bwZ1wGPkJRYeSulHYaZLtNiWhqHEDt6lVrhqsUcc4QL2bmNcPrlrXMTt011CPKAGr0XBOS6ous76wDkCkzTQzbWTzrVS2UBrWWGBldmNNuB8dUHfFhltwSFSOtgc1lmcJl5nDeDWhCRlhSWOCHQ-ma0go8Bauiusw45yLZS997bP1P0emAhQkX5O70X~4fHRZ~OkIMGcMntcvGr2DOu5UA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/mbc.png" tvg-chno="11",MBC
-https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w1599333233.m3u8
+http://gg.gg/Ha_Noi_IPTV_3-MBC_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc.png" tvg-chno="15",JTBC
 http://1.214.67.100//vod//74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc2.png" tvg-chno="34",JTBC2
@@ -20,6 +20,10 @@ http://211.170.95.16//vod//75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000
 http://1.214.67.100/vod/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/channela.png" tvg-chno="19",채널A
 http://1.214.67.100//vod//74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png" tvg-chno="19",MBC every1
+http://gg.gg/Ha_Noi_IPTV_48-MBC_every1_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png" tvg-chno="19",MBC Drama
+http://gg.gg/Ha_Noi_IPTV_49-MBC_Drama_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/ytn.png" tvg-chno="20",YTN
 http://1.214.67.100//vod//69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/yonhapnews.png" tvg-chno="21",연합뉴스TV
@@ -30,26 +34,31 @@ http://1.214.67.100//vod//50501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1916835026.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/emskids.png" tvg-chno="21",EBS키즈
 http://1.214.67.100//vod//60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotv.png" tvg-chno="22",SPOTV
-http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotv2.png" tvg-chno="23",SPOTV2
-http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotvplus.png" tvg-chno="24",SPOTV+
-http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="25",STATV
-http://1.214.67.100//vod//72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/fox.png" tvg-chno="25",Fox Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/premium.png" tvg-chno="26",프리미엄
 http://1.214.67.30/vod/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/wellmade.png" tvg-chno="27",웰메이드
 http://211.170.95.45/vod/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbsn.png" tvg-chno="28",KBS N
-http://1.214.67.24//vod//38901.m3u8?SessionID=c66f0f99-e4ed-4c3b-bb00-0e0219d210db&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+http://gg.gg/Ha_Noi_IPTV_41-KBSN_Plus_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbsjoy.png" tvg-chno="29",KBS Joy
-http://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-01/kbsnjoy-01_sd.m3u8?Expires=1611506696&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25qb3kuZ3NjZG4ua2JzLmNvLmtyL2tic25qb3ktMDEva2JzbmpveS0wMV9zZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjExNTA2Njk2fX19XX0_&Signature=UPRerbtV4d1DoO8BCTa0~JyVCWXuO~uDlnRWvWShnLaJU-OfG8vi4ZEoup15Y9BU9rjw3U-jK6Hu5aw1NBidHxpoNqI2xcUn5zMZlQsYzrRu4SNkFltFpymq~xBp0bePtbfKR~spIQ8n84F1C-YLCHfgs5o6~5dYXR4G9PMuZ1xx9viPh3i06x0dr~xlP9aSCTf7qyKMZWm5kaIgcEqJ4BMUKqbUP-D4re2zId9xy6xOqAG9j2qt6m24JVZ-il-W6cgP~KPCxWjCgkBUjlQOsLUCJhAzw-ngX1lnUfPnaGCj1HZjqnnQoAJmwhhFToXWfelQmrzhGAappD-r0h2dQw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+http://gg.gg/Ha_Noi_IPTV_43-KBSN_Joy_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbsdrama.png" tvg-chno="30",KBS드라마
-http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1611507330&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLTAxL2tic25kcmFtYS0wMV9zZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjExNTA3MzMwfX19XX0_&Signature=YlB9Z2Ik-CgiCM5lpxPzQem86Fn1c~Ct7L3tgd1386hzKdPqZfuT6NCH5DOen~KuaZnQ-d~IzzTB8iSswnpGTmXjasIEUbf9xFMZokIGHaDbxYpNs5v28a0QwGX7pR432SbJxGnEd80N~ZI~FtIuxSwbYziy4QE6fwz6VCiWmOyTneu~YHLRO0m4Wib9RY5Kx9wFOMWVYK2Zx~ZcWs-aLyXDXcdC2KcgYm2u7RBIGQsc23ASG7wN3WCqIqFatlmycMwyb-4TS7wQ-u65~C-kRKmOIyDwIhlhua8YptR3L--sDFbPu-71Wf1Xcs4jsKhqhWYDnGZs1FB~76YINlcUmw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+http://gg.gg/Ha_Noi_IPTV_42-KBSN_Drama_HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.kbsn.co.kr/images/ch_life.png" tvg-chno="30",KBSN Life
+http://gg.gg/Ha_Noi_IPTV_46-KBSN_Life_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png" tvg-chno="30",SBS Plus
+http://gg.gg/Ha_Noi_IPTV_53-SBS_Plus_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png" tvg-chno="30",SBS funE
+http://gg.gg/Ha_Noi_IPTV_54-SBS_funE_HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="30",STATV
+http://1.214.67.100//vod//72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotv.png" tvg-chno="30",SPOTV
+http://1.214.67.100/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotv2.png" tvg-chno="30",SPOTV2
+http://1.214.67.32/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/spotvplus.png" tvg-chno="30",SPOTV+
+http://1.214.67.40/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbsnsports.png" tvg-chno="31",KBSN 스포츠
 http://1.214.67.18/vod/04101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1600P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/sbssports.png" tvg-chno="32",SBS스포츠
@@ -62,6 +71,8 @@ http://211.170.95.16//vod//61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000
 http://1.214.67.38//vod//60201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc3fox.png" tvg-chno="32",JTBC3 FOX SPORTS
 http://1.214.67.38//vod//79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/fox.png" tvg-chno="25",Fox Sports
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/cbstv.png" tvg-chno="36",CBS TV
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kstar.png" tvg-chno="37",K-Star
