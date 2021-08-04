@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/sbs.png" tvg-chno="5",SBS
-http://gg.gg/Ha_Noi_IPTV_2-SBS_HD
+https://www.navchina.cf/IPTV/sbs.php?id=S01
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs2.png" tvg-chno="7",KBS2
 http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/kbs.png" tvg-chno="9",KBS1
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+http://121.130.210.101:9981/stream/channelid/637185705
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/mbc.png" tvg-chno="11",MBC
-http://gg.gg/Ha_Noi_IPTV_3-MBC_HD
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc.png" tvg-chno="15",JTBC
 http://1.214.67.100//vod//74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/opengreen8/Resource/master/logo/jtbc2.png" tvg-chno="34",JTBC2
